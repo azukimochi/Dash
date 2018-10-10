@@ -16,9 +16,10 @@ Dash - short for "dashboard" - is an online hub for any busy individual to get t
 "As a busy individual, I want to get my daily updates (eg. Weather and news) as soon as I can, so it gives me an efficient way to start my day."
 
 **Main Goal:** saving time searching for all your daily updates 
+
 **Secondary Goal:** user-friendly for people who don’t know how to use most aspects of a computer for searching the web 
 
-###Project Outline: 
+### Project Outline: 
 
 We added the following apps to help make your search easier without making the user navigate elsewhere. 
 
@@ -50,7 +51,7 @@ We added the following apps to help make your search easier without making the u
 
 YouTube, Giphy, GoogleNews,  WorldCoinIndex, OpenWeather,  Open Trivia Database, Google Maps
 
-###Future Developments: 
+### Future Developments: 
 
 - Social media feeds 
 - Ability for user to create widgets on-the-fly
