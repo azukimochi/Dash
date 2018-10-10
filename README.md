@@ -5,7 +5,7 @@
 
 Dash - short for "dashboard" - is an online hub for any busy individual to get the daily information they need every day.  This includes getting updates on bitcoin prices, the current weather, top headlines, and movie statistics.  You will also be able to initiate searches on YouTube, GIFs, Google, Google Maps, and much more!  A built-in to-do-list is also included.  This is all within one user-friendly interface, so it is inclusive for all kinds of users regardless of their level of technical literacy. User authentication is also included to ensure that your information is saved and retraceable. 
 
-### Problems to solve: 
+### Problems to Solve: 
 
 - Having useful, diverse information gathered in a central hub to eliminate time constraints caused by having to flip through several apps instead of just one. 
 - Ability to organize the information you want on a single platform that you can return to anytime.   
